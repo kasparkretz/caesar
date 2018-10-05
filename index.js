@@ -2,7 +2,6 @@ var germanWords = require("all-the-german-words");
 
 function countGermanWords(str) {
     const substrings = germanWords.filter((w) => w.length > 2 && str.indexOf(w.toLowerCase()) > 0);
-    console.log(substrings);
     return substrings.length;
 }
 
