@@ -1,6 +1,6 @@
 {
   "name": "caesar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kaspar's Caesar cipher experiment",
   "main": "index.js",
   "scripts": {

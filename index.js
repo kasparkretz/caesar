@@ -19,7 +19,7 @@ function prompt(question) {
 
 const menu = `Kaspar's Caesar-Verschlüsselungsprogramm
 ******************************************
-Was willst Du tun?
+Was willst Du tun? Wähle eine Option.
 
 1. Einen Text verschlüsseln?
 2. Einen Text entschlüsseln?
